@@ -1,0 +1,7 @@
+patient_id,subtype,line,prior_AI_months,pfs_months,os_months,event_pfs,event_os,ras_n,ras_pos
+P001,HR+/HER2-,2,28,6.2,19.4,1,1,2.0,RAS+
+P002,HR+/HER2-,1,12,4.1,15.0,1,1,1.0,RAS+
+P003,HR+/HER2-,3,40,9.8,28.2,0,0,1.0,RAS+
+P004,HR+/HER2-,1,8,11.5,30.1,0,0,1.0,RAS+
+P005,TNBC,1,0,5.5,12.3,1,1,1.0,RAS+
+P006,HR+/HER2-,1,18,18.0,40.0,0,0,0.0,RAS-

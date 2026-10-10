@@ -1,0 +1,8 @@
+﻿patient_id,gene,alteration,vaf,subtype,line,prior_AI_months,pfs_months,os_months,event_pfs,event_os
+P001,ESR1,D538G,0.18,HR+/HER2-,2,28,6.2,19.4,1,1
+P001,PIK3CA,E545K,0.21,HR+/HER2-,2,28,6.2,19.4,1,1
+P002,RB1,deletion,NA,HR+/HER2-,1,12,4.1,15.0,1,1
+P003,ESR1,Y537S,0.09,HR+/HER2-,3,40,9.8,28.2,0,0
+P004,PIK3CA,H1047R,0.33,HR+/HER2-,1,8,11.5,30.1,0,0
+P005,TP53,R175H,0.41,TNBC,1,0,5.5,12.3,1,1
+P006,,,NA,HR+/HER2-,1,18,18.0,40.0,0,0
